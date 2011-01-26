@@ -1,0 +1,428 @@
+TTESTQQ
+v7
+r0
+t317459530.204236
+cCheck dependencies
+cCompileC build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o /Users/DavidMak/Projects/TESTQQ/myqq.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004A4180D20000000000001533
+t1245806802
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004A5C14A700000000000038F0
+t1247548583
+s14576
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004A73D65400000000000059BC
+t1249105492
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/termios.h
+c000000004A5C14A600000000000004D4
+t1247548582
+s1236
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004A5C14A7000000000000178E
+t1247548583
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/util.h
+c000000004A5C14A700000000000011C8
+t1247548583
+s4552
+
+N/Users/DavidMak/Projects/TESTQQ/buddy.h
+c000000004D3BC77A000000000000065E
+t1295763322
+s1630
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/buddy.o
+c000000004D3BCF810000000000001608
+t1295765377
+s5640
+
+N/Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ
+t1295766730
+s148544
+
+N/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/TESTQQ.LinkFileList
+c000000004D3BD1E90000000000000063
+t1295765993
+s99
+
+N/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o
+t1295766118
+s49212
+
+N/Users/DavidMak/Projects/TESTQQ/config.h
+c000000004D3BC77A0000000000000211
+t1295763322
+s529
+
+N/Users/DavidMak/Projects/TESTQQ/crc32.o
+c000000004D3BCF820000000000000444
+t1295765378
+s1092
+
+N/Users/DavidMak/Projects/TESTQQ/debug.o
+c000000004D3BCF80000000000000127C
+t1295765376
+s4732
+
+N/Users/DavidMak/Projects/TESTQQ/group.h
+c000000004D3BC77A00000000000001FC
+t1295763322
+s508
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/group.o
+c000000004D3BCF810000000000000DF4
+t1295765377
+s3572
+
+N/Users/DavidMak/Projects/TESTQQ/libqq.o
+c000000004D3BD0610000000000002920
+t1295765601
+s10528
+
+N/Users/DavidMak/Projects/TESTQQ/list.h
+c000000004D3BC77A0000000000000204
+t1295763322
+s516
+i<pthread.h>
+
+N/Users/DavidMak/Projects/TESTQQ/list.o
+c000000004D3BCF810000000000000C9C
+t1295765377
+s3228
+
+N/Users/DavidMak/Projects/TESTQQ/loop.h
+c000000004D3BC77A0000000000000333
+t1295763322
+s819
+i<pthread.h>
+
+N/Users/DavidMak/Projects/TESTQQ/loop.o
+c000000004D3BCF820000000000001204
+t1295765378
+s4612
+
+N/Users/DavidMak/Projects/TESTQQ/main.c
+c000000004D3BD13D0000000000000089
+t1295765821
+s137
+i<stdio.h>
+
+N/Users/DavidMak/Projects/TESTQQ/md5.o
+c000000004D3BCF800000000000001540
+t1295765376
+s5440
+
+N/Users/DavidMak/Projects/TESTQQ/memory.h
+c000000004D3BC77A00000000000003BF
+t1295763322
+s959
+i<time.h>
+i<pthread.h>
+
+N/Users/DavidMak/Projects/TESTQQ/memory.o
+c000000004D3BCF800000000000001514
+t1295765376
+s5396
+
+N/Users/DavidMak/Projects/TESTQQ/myqq.c
+c000000004D3BC77A0000000000005936
+t1295763322
+s22838
+i<stdio.h>
+i<ctype.h>
+i<string.h>
+i<time.h>
+i<stdlib.h>
+i<unistd.h>
+i<conio.h>
+i<winsock.h>
+i<wininet.h>
+i<windows.h>
+i<termios.h>
+i<sys/socket.h>
+i<arpa/inet.h>
+i<netdb.h>
+i"qqclient.h"
+i"buddy.h"
+i"qun.h"
+i"group.h"
+i"memory.h"
+i"utf8.h"
+i"config.h"
+i"qqsocket.h"
+
+N/Users/DavidMak/Projects/TESTQQ/packetmgr.h
+c000000004D3BC77A0000000000000398
+t1295763322
+s920
+i<pthread.h>
+i"qqdef.h"
+i"loop.h"
+i"qqpacket.h"
+
+N/Users/DavidMak/Projects/TESTQQ/packetmgr.o
+c000000004D3BCF81000000000000309C
+t1295765377
+s12444
+
+N/Users/DavidMak/Projects/TESTQQ/prot_buddy.o
+c000000004D3BCF8200000000000040D0
+t1295765378
+s16592
+
+N/Users/DavidMak/Projects/TESTQQ/prot_group.o
+c000000004D3BCF8100000000000009A4
+t1295765377
+s2468
+
+N/Users/DavidMak/Projects/TESTQQ/prot_im.o
+c000000004D3BCF810000000000003A08
+t1295765377
+s14856
+
+N/Users/DavidMak/Projects/TESTQQ/prot_login.o
+c000000004D3BCF810000000000004640
+t1295765377
+s17984
+
+N/Users/DavidMak/Projects/TESTQQ/prot_misc.o
+c000000004D3BCF8100000000000013DC
+t1295765377
+s5084
+
+N/Users/DavidMak/Projects/TESTQQ/prot_qun.o
+c000000004D3BCF810000000000001CEC
+t1295765377
+s7404
+
+N/Users/DavidMak/Projects/TESTQQ/prot_user.o
+c000000004D3BCF810000000000003090
+t1295765377
+s12432
+
+N/Users/DavidMak/Projects/TESTQQ/protocol.h
+c000000004D3BC77A000000000000217E
+t1295763322
+s8574
+i"qqdef.h"
+i"qqpacket.h"
+
+N/Users/DavidMak/Projects/TESTQQ/protocol.o
+c000000004D3BCFF30000000000002864
+t1295765491
+s10340
+
+N/Users/DavidMak/Projects/TESTQQ/qqclient.h
+c000000004D3BC77A0000000000000945
+t1295763322
+s2373
+i<pthread.h>
+i<time.h>
+i"qqdef.h"
+i"packetmgr.h"
+i"buddy.h"
+i"list.h"
+i"loop.h"
+i"qqsocket.h"
+i"protocol.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qqclient.o
+c000000004D3BCFF300000000000033F4
+t1295765491
+s13300
+
+N/Users/DavidMak/Projects/TESTQQ/qqconn.o
+c000000004D3BCFF400000000000018D4
+t1295765492
+s6356
+
+N/Users/DavidMak/Projects/TESTQQ/qqcrypt.o
+c000000004D3BCFF30000000000001148
+t1295765491
+s4424
+
+N/Users/DavidMak/Projects/TESTQQ/qqdef.h
+c000000004D3BC77A0000000000000BE9
+t1295763322
+s3049
+i<time.h>
+i<unistd.h>
+i"util.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qqpacket.h
+c000000004D3BC77A000000000000043E
+t1295763322
+s1086
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qqpacket.o
+c000000004D3BCFF300000000000015CC
+t1295765491
+s5580
+
+N/Users/DavidMak/Projects/TESTQQ/qqsocket.h
+c000000004D3BC77A00000000000001FE
+t1295763322
+s510
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qqsocket.o
+c000000004D3BCFF300000000000011E0
+t1295765491
+s4576
+
+N/Users/DavidMak/Projects/TESTQQ/qun.h
+c000000004D3BC77A0000000000000622
+t1295763322
+s1570
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qun.o
+c000000004D3BCFF30000000000002134
+t1295765491
+s8500
+
+N/Users/DavidMak/Projects/TESTQQ/utf8.h
+c000000004D3BC77A00000000000000C7
+t1295763322
+s199
+
+N/Users/DavidMak/Projects/TESTQQ/utf8.o
+c000000004D3BCFF300000000000008FC
+t1295765491
+s2300
+
+N/Users/DavidMak/Projects/TESTQQ/util.h
+c000000004D3BC77A0000000000000176
+t1295763322
+s374
+
+N/Users/DavidMak/Projects/TESTQQ/util.o
+c000000004D3BCFF30000000000001288
+t1295765491
+s4744
+
+N/Users/DavidMak/Projects/myqq/myqq3/src/config.o
+c000000004D3BCF8000000000000019D8
+t1295765376
+s6616
+
+N/usr/lib/libiconv.2.4.0.dylib
+c000000004B5F93F8000000000030EA80
+t1264555000
+s3205760
+
+N/usr/lib/libiconv.dylib
+c000000004B5F93F8000000000030EA80
+t1264555000
+s3205760
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317459529#317459529#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/main.o /Users/DavidMak/Projects/TESTQQ/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o /Users/DavidMak/Projects/TESTQQ/myqq.c normal x86_64 c com.apple.compilers.gcc.4_2
+s317458918.591851
+e317458918.724381
+r1
+xCompileC
+xbuild/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o
+x/Users/DavidMak/Projects/TESTQQ/myqq.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'setcolor':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:173: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'buddy_msg_callback':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:503: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:511: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'qun_msg_callback':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:544: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:554: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'main':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:682: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:720: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:726: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:730: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:765: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:798: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:805: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:810: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:823: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:829: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:859: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:861: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:869: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:871: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:883: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:886: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:895: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:898: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:915: warning: format not a string literal and no format arguments
+lSLF07#2@46"Compile /Users/DavidMak/Projects/TESTQQ/myqq.c317458918#317458918#0(2790"/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'setcolor':/Users/DavidMak/Projects/TESTQQ/myqq.c:173: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'buddy_msg_callback':/Users/DavidMak/Projects/TESTQQ/myqq.c:503: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:511: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'qun_msg_callback':/Users/DavidMak/Projects/TESTQQ/myqq.c:544: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:554: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'main':/Users/DavidMak/Projects/TESTQQ/myqq.c:682: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:720: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:726: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:730: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:765: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:798: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:805: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:810: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:823: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:829: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:859: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:861: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:869: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:871: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:883: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:886: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:895: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:898: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:915: warning: format not a string literal and no format arguments24(22@51"Format not a string literal and no format arguments317458918#64#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#173#0#173#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#243#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#503#0#503#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#348#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#511#0#511#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#525#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#544#0#544#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#630#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#554#0#554#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#795#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#682#0#682#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#900#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#720#0#720#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1005#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#726#0#726#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1110#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#730#0#730#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1215#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#765#0#765#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1320#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#798#0#798#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1425#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#805#0#805#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1530#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#810#0#810#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1635#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#823#0#823#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1740#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#829#0#829#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1845#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#859#0#859#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#1950#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#861#0#861#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#2055#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#869#0#869#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#2160#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#871#0#871#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#2265#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#883#0#883#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#2370#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#886#0#886#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#2475#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#895#0#895#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#2580#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#898#0#898#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458918#2685#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#915#0#915#0#51"format not a string literal and no format arguments0(0#0#38"/Users/DavidMak/Projects/TESTQQ/myqq.c4300882208#1175"    cd /Users/DavidMak/Projects/TESTQQ    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-generated-files.hmap -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-own-target-headers.hmap -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-all-target-headers.hmap -iquote /Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-project-headers.hmap -F/Users/DavidMak/Projects/TESTQQ/build/Debug -I/Users/DavidMak/Projects/TESTQQ/build/Debug/include -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/DerivedSources/x86_64 -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/DerivedSources -c /Users/DavidMak/Projects/TESTQQ/myqq.c -o /Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o0#
+
+CLd /Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ normal x86_64
+s317459529.765571
+e317459530.204176
+r1
+xLd
+x/Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ
+xnormal
+xx86_64
+lSLF07#2@55"Link /Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ317459529#317459530#0(0"0(0#0#0"4300882208#1572"    cd /Users/DavidMak/Projects/TESTQQ    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/DavidMak/Projects/TESTQQ/build/Debug -F/Users/DavidMak/Projects/TESTQQ/build/Debug -filelist /Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/TESTQQ.LinkFileList -mmacosx-version-min=10.6 -lpthread /Users/DavidMak/Projects/myqq/myqq3/src/config.o /Users/DavidMak/Projects/TESTQQ/buddy.o /Users/DavidMak/Projects/TESTQQ/crc32.o /Users/DavidMak/Projects/TESTQQ/debug.o /Users/DavidMak/Projects/TESTQQ/group.o /Users/DavidMak/Projects/TESTQQ/list.o /Users/DavidMak/Projects/TESTQQ/loop.o /Users/DavidMak/Projects/TESTQQ/md5.o /Users/DavidMak/Projects/TESTQQ/memory.o /Users/DavidMak/Projects/TESTQQ/packetmgr.o /Users/DavidMak/Projects/TESTQQ/prot_buddy.o /Users/DavidMak/Projects/TESTQQ/prot_group.o /Users/DavidMak/Projects/TESTQQ/prot_im.o /Users/DavidMak/Projects/TESTQQ/prot_login.o /Users/DavidMak/Projects/TESTQQ/prot_misc.o /Users/DavidMak/Projects/TESTQQ/prot_qun.o /Users/DavidMak/Projects/TESTQQ/prot_user.o /Users/DavidMak/Projects/TESTQQ/protocol.o /Users/DavidMak/Projects/TESTQQ/qun.o /Users/DavidMak/Projects/TESTQQ/qqclient.o /Users/DavidMak/Projects/TESTQQ/qqconn.o /Users/DavidMak/Projects/TESTQQ/qqcrypt.o /Users/DavidMak/Projects/TESTQQ/qqpacket.o /Users/DavidMak/Projects/TESTQQ/qqsocket.o /Users/DavidMak/Projects/TESTQQ/utf8.o /Users/DavidMak/Projects/TESTQQ/util.o -liconv.2.4.0 -o /Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ0#
+

@@ -1,0 +1,318 @@
+TTESTQQ
+v7
+r0
+t317458793.419919
+cCheck dependencies
+cCompileC build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o /Users/DavidMak/Projects/TESTQQ/myqq.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004A4180D20000000000001533
+t1245806802
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004A5C14A700000000000038F0
+t1247548583
+s14576
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004A73D65400000000000059BC
+t1249105492
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/termios.h
+c000000004A5C14A600000000000004D4
+t1247548582
+s1236
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004A5C14A7000000000000178E
+t1247548583
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Users/DavidMak/Projects/TESTQQ/buddy.h
+c000000004D3BC77A000000000000065E
+t1295763322
+s1630
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ
+t2
+s0
+
+N/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/TESTQQ.LinkFileList
+c000000004D3BD1E90000000000000063
+t1295765993
+s99
+
+N/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o
+t2
+s0
+
+N/Users/DavidMak/Projects/TESTQQ/config.h
+c000000004D3BC77A0000000000000211
+t1295763322
+s529
+
+N/Users/DavidMak/Projects/TESTQQ/group.h
+c000000004D3BC77A00000000000001FC
+t1295763322
+s508
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/main.c
+c000000004D3BD13D0000000000000089
+t1295765821
+s137
+i<stdio.h>
+
+N/Users/DavidMak/Projects/TESTQQ/memory.h
+c000000004D3BC77A00000000000003BF
+t1295763322
+s959
+i<time.h>
+i<pthread.h>
+
+N/Users/DavidMak/Projects/TESTQQ/myqq.c
+c000000004D3BC77A0000000000005936
+t1295763322
+s22838
+i<stdio.h>
+i<ctype.h>
+i<string.h>
+i<time.h>
+i<stdlib.h>
+i<unistd.h>
+i<conio.h>
+i<winsock.h>
+i<wininet.h>
+i<windows.h>
+i<termios.h>
+i<sys/socket.h>
+i<arpa/inet.h>
+i<netdb.h>
+i"qqclient.h"
+i"buddy.h"
+i"qun.h"
+i"group.h"
+i"memory.h"
+i"utf8.h"
+i"config.h"
+i"qqsocket.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qqclient.h
+c000000004D3BC77A0000000000000945
+t1295763322
+s2373
+i<pthread.h>
+i<time.h>
+i"qqdef.h"
+i"packetmgr.h"
+i"buddy.h"
+i"list.h"
+i"loop.h"
+i"qqsocket.h"
+i"protocol.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qqsocket.h
+c000000004D3BC77A00000000000001FE
+t1295763322
+s510
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/qun.h
+c000000004D3BC77A0000000000000622
+t1295763322
+s1570
+i"qqdef.h"
+
+N/Users/DavidMak/Projects/TESTQQ/utf8.h
+c000000004D3BC77A00000000000000C7
+t1295763322
+s199
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317458793#317458793#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/main.o /Users/DavidMak/Projects/TESTQQ/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o /Users/DavidMak/Projects/TESTQQ/myqq.c normal x86_64 c com.apple.compilers.gcc.4_2
+s317458793.350879
+e317458793.419692
+r0
+xCompileC
+xbuild/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o
+x/Users/DavidMak/Projects/TESTQQ/myqq.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:6:19: error: qqdef.h: No such file or directory
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:7:23: error: packetmgr.h: No such file or directory
+oIn file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h:8,
+o                 from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:
+o/Users/DavidMak/Projects/TESTQQ/buddy.h:8: error: 'NICKNAME_LEN' undeclared here (not in a function)
+o/Users/DavidMak/Projects/TESTQQ/buddy.h:12: error: expected specifier-qualifier-list before 'uchar'
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:9:18: error: list.h: No such file or directory
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:10:18: error: loop.h: No such file or directory
+oIn file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h:11,
+o                 from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:
+o/Users/DavidMak/Projects/TESTQQ/qqsocket.h:12: error: expected declaration specifiers or '...' before 'uchar'
+o/Users/DavidMak/Projects/TESTQQ/qqsocket.h:13: error: expected declaration specifiers or '...' before 'uchar'
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:12:22: error: protocol.h: No such file or directory
+oIn file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:38: error: expected specifier-qualifier-list before 'uchar'
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:86: error: expected declaration specifiers or '...' before 'uchar'
+o/Users/DavidMak/Projects/TESTQQ/qqclient.h:93: error: expected declaration specifiers or '...' before 'uchar'
+oIn file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:41:
+o/Users/DavidMak/Projects/TESTQQ/qun.h:10: error: expected specifier-qualifier-list before 'uchar'
+o/Users/DavidMak/Projects/TESTQQ/qun.h:29: error: expected specifier-qualifier-list before 'uchar'
+oIn file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:42:
+o/Users/DavidMak/Projects/TESTQQ/group.h:8: error: 'GROUPNAME_LEN' undeclared here (not in a function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'setcolor':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:173: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'mode_string':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:228: error: 'QQ_ONLINE' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:228: error: (Each undeclared identifier is reported only once
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:228: error: for each function it appears in.)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:230: error: 'QQ_AWAY' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:232: error: 'QQ_BUSY' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:234: error: 'QQ_OFFLINE' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:236: error: 'QQ_HIDDEN' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:238: error: 'QQ_KILLME' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:240: error: 'QQ_QUIET' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_buddy_info':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'signature'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'alias'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'mobilephone'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'email'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'occupation'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'homepage'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'school'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'country'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'province'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'city'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'address'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'brief'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'age'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'sex'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'sex'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_buddy_list':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:379: error: 'qqclient' has no member named 'buddy_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:381: error: 'qqclient' has no member named 'buddy_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:383: error: 'qqclient' has no member named 'buddy_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:384: error: 'qqbuddy' has no member named 'status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:384: error: 'QQ_OFFLINE' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:385: error: 'qqbuddy' has no member named 'alias'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:386: error: 'qqbuddy' has no member named 'status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:386: error: 'qqbuddy' has no member named 'alias'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:389: error: 'qqbuddy' has no member named 'status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:394: error: 'qqclient' has no member named 'buddy_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_qun_list':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:409: error: 'qqclient' has no member named 'qun_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:410: error: 'qqclient' has no member named 'qun_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:412: error: 'qqclient' has no member named 'qun_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:417: error: 'qqclient' has no member named 'qun_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_qun_member_list':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:434: error: 'qqqun' has no member named 'member_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:435: error: 'qqqun' has no member named 'member_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:437: error: 'qqqun' has no member named 'member_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:438: error: 'qunmember' has no member named 'status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:438: error: 'QQ_OFFLINE' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:439: error: 'qunmember' has no member named 'role'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:444: error: 'qqqun' has no member named 'member_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_qun_info':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'type'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'auth_type'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'auth_type'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'auth_type'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'member_list'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'buddy_msg_callback':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:503: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:511: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'qun_msg_callback':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:544: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:554: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'main':
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:636: error: 'qqclient' has no member named 'mode'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:636: error: 'QQ_HIDDEN' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:636: error: 'QQ_ONLINE' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:643: error: 'qqclient' has no member named 'mode'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:648: error: 'qqclient' has no member named 'process'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:650: error: 'qqclient' has no member named 'process'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:682: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:683: error: 'qqclient' has no member named 'process'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:720: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:726: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:730: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:765: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:773: error: 'QQ_AWAY' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:773: error: too many arguments to function 'qqclient_change_status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:775: error: too many arguments to function 'qqclient_change_status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:777: error: too many arguments to function 'qqclient_change_status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:779: error: 'QQ_KILLME' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:779: error: too many arguments to function 'qqclient_change_status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:781: error: 'QQ_BUSY' undeclared (first use in this function)
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:781: error: too many arguments to function 'qqclient_change_status'
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:798: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:805: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:810: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:823: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:829: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:859: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:861: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:869: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:871: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:883: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:886: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:895: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:898: warning: format not a string literal and no format arguments
+o/Users/DavidMak/Projects/TESTQQ/myqq.c:915: warning: format not a string literal and no format arguments
+lSLF07#2@46"Compile /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#317458793#0(11525"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:/Users/DavidMak/Projects/TESTQQ/qqclient.h:6:19: error: qqdef.h: No such file or directory/Users/DavidMak/Projects/TESTQQ/qqclient.h:7:23: error: packetmgr.h: No such file or directoryIn file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h:8,                 from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:/Users/DavidMak/Projects/TESTQQ/buddy.h:8: error: 'NICKNAME_LEN' undeclared here (not in a function)/Users/DavidMak/Projects/TESTQQ/buddy.h:12: error: expected specifier-qualifier-list before 'uchar'/Users/DavidMak/Projects/TESTQQ/qqclient.h:9:18: error: list.h: No such file or directory/Users/DavidMak/Projects/TESTQQ/qqclient.h:10:18: error: loop.h: No such file or directoryIn file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h:11,                 from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:/Users/DavidMak/Projects/TESTQQ/qqsocket.h:12: error: expected declaration specifiers or '...' before 'uchar'/Users/DavidMak/Projects/TESTQQ/qqsocket.h:13: error: expected declaration specifiers or '...' before 'uchar'/Users/DavidMak/Projects/TESTQQ/qqclient.h:12:22: error: protocol.h: No such file or directoryIn file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:39:/Users/DavidMak/Projects/TESTQQ/qqclient.h:38: error: expected specifier-qualifier-list before 'uchar'/Users/DavidMak/Projects/TESTQQ/qqclient.h:86: error: expected declaration specifiers or '...' before 'uchar'/Users/DavidMak/Projects/TESTQQ/qqclient.h:93: error: expected declaration specifiers or '...' before 'uchar'In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:41:/Users/DavidMak/Projects/TESTQQ/qun.h:10: error: expected specifier-qualifier-list before 'uchar'/Users/DavidMak/Projects/TESTQQ/qun.h:29: error: expected specifier-qualifier-list before 'uchar'In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c:42:/Users/DavidMak/Projects/TESTQQ/group.h:8: error: 'GROUPNAME_LEN' undeclared here (not in a function)/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'setcolor':/Users/DavidMak/Projects/TESTQQ/myqq.c:173: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'mode_string':/Users/DavidMak/Projects/TESTQQ/myqq.c:228: error: 'QQ_ONLINE' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:228: error: (Each undeclared identifier is reported only once/Users/DavidMak/Projects/TESTQQ/myqq.c:228: error: for each function it appears in.)/Users/DavidMak/Projects/TESTQQ/myqq.c:230: error: 'QQ_AWAY' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:232: error: 'QQ_BUSY' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:234: error: 'QQ_OFFLINE' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:236: error: 'QQ_HIDDEN' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:238: error: 'QQ_KILLME' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:240: error: 'QQ_QUIET' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_buddy_info':/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'signature'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'alias'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'mobilephone'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'email'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'occupation'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'homepage'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'school'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'country'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'province'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'city'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'address'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'brief'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'age'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'sex'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'sex'/Users/DavidMak/Projects/TESTQQ/myqq.c:325: error: 'qqbuddy' has no member named 'status'/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_buddy_list':/Users/DavidMak/Projects/TESTQQ/myqq.c:379: error: 'qqclient' has no member named 'buddy_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:381: error: 'qqclient' has no member named 'buddy_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:383: error: 'qqclient' has no member named 'buddy_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:384: error: 'qqbuddy' has no member named 'status'/Users/DavidMak/Projects/TESTQQ/myqq.c:384: error: 'QQ_OFFLINE' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:385: error: 'qqbuddy' has no member named 'alias'/Users/DavidMak/Projects/TESTQQ/myqq.c:386: error: 'qqbuddy' has no member named 'status'/Users/DavidMak/Projects/TESTQQ/myqq.c:386: error: 'qqbuddy' has no member named 'alias'/Users/DavidMak/Projects/TESTQQ/myqq.c:389: error: 'qqbuddy' has no member named 'status'/Users/DavidMak/Projects/TESTQQ/myqq.c:394: error: 'qqclient' has no member named 'buddy_list'/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_qun_list':/Users/DavidMak/Projects/TESTQQ/myqq.c:409: error: 'qqclient' has no member named 'qun_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:410: error: 'qqclient' has no member named 'qun_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:412: error: 'qqclient' has no member named 'qun_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:417: error: 'qqclient' has no member named 'qun_list'/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_qun_member_list':/Users/DavidMak/Projects/TESTQQ/myqq.c:434: error: 'qqqun' has no member named 'member_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:435: error: 'qqqun' has no member named 'member_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:437: error: 'qqqun' has no member named 'member_list'/Users/DavidMak/Projects/TESTQQ/myqq.c:438: error: 'qunmember' has no member named 'status'/Users/DavidMak/Projects/TESTQQ/myqq.c:438: error: 'QQ_OFFLINE' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:439: error: 'qunmember' has no member named 'role'/Users/DavidMak/Projects/TESTQQ/myqq.c:444: error: 'qqqun' has no member named 'member_list'/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'myqq_get_qun_info':/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'type'/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'auth_type'/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'auth_type'/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'auth_type'/Users/DavidMak/Projects/TESTQQ/myqq.c:462: error: 'qqqun' has no member named 'member_list'/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'buddy_msg_callback':/Users/DavidMak/Projects/TESTQQ/myqq.c:503: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:511: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'qun_msg_callback':/Users/DavidMak/Projects/TESTQQ/myqq.c:544: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:554: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c: In function 'main':/Users/DavidMak/Projects/TESTQQ/myqq.c:636: error: 'qqclient' has no member named 'mode'/Users/DavidMak/Projects/TESTQQ/myqq.c:636: error: 'QQ_HIDDEN' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:636: error: 'QQ_ONLINE' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:643: error: 'qqclient' has no member named 'mode'/Users/DavidMak/Projects/TESTQQ/myqq.c:648: error: 'qqclient' has no member named 'process'/Users/DavidMak/Projects/TESTQQ/myqq.c:650: error: 'qqclient' has no member named 'process'/Users/DavidMak/Projects/TESTQQ/myqq.c:682: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:683: error: 'qqclient' has no member named 'process'/Users/DavidMak/Projects/TESTQQ/myqq.c:720: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:726: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:730: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:765: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:773: error: 'QQ_AWAY' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:773: error: too many arguments to function 'qqclient_change_status'/Users/DavidMak/Projects/TESTQQ/myqq.c:775: error: too many arguments to function 'qqclient_change_status'/Users/DavidMak/Projects/TESTQQ/myqq.c:777: error: too many arguments to function 'qqclient_change_status'/Users/DavidMak/Projects/TESTQQ/myqq.c:779: error: 'QQ_KILLME' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:779: error: too many arguments to function 'qqclient_change_status'/Users/DavidMak/Projects/TESTQQ/myqq.c:781: error: 'QQ_BUSY' undeclared (first use in this function)/Users/DavidMak/Projects/TESTQQ/myqq.c:781: error: too many arguments to function 'qqclient_change_status'/Users/DavidMak/Projects/TESTQQ/myqq.c:798: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:805: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:810: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:823: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:829: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:859: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:861: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:869: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:871: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:883: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:886: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:895: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:898: warning: format not a string literal and no format arguments/Users/DavidMak/Projects/TESTQQ/myqq.c:915: warning: format not a string literal and no format arguments103(4@34"Qqdef.h: No such file or directory317458793#65#91#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(13@80"Qqdef.h: No such file or directory in /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#6#0#6#0#0"0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#6#0#6#0#28"*: No such file or directory0(4@38"Packetmgr.h: No such file or directory317458793#156#95#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(13@84"Packetmgr.h: No such file or directory in /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#7#0#7#0#0"0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#7#0#7#0#28"*: No such file or directory0(4@50"'NICKNAME_LEN' undeclared here (not in a function)317458793#384#101#3(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(7@64"In file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#8#0#8#0#0"0(13@93"'NICKNAME_LEN' undeclared here (not in a function) in /Users/DavidMak/Projects/TESTQQ/buddy.h317458793#18446744073709551615#0#0(6@39"/Users/DavidMak/Projects/TESTQQ/buddy.h317456122#8#0#8#0#0"0(6@39"/Users/DavidMak/Projects/TESTQQ/buddy.h317456122#8#0#8#0#39"'*' undeclared here (not in a function)0(4@48"Expected specifier-qualifier-list before 'uchar'317458793#485#100#3(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(7@64"In file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#8#0#8#0#0"0(13@91"Expected specifier-qualifier-list before 'uchar' in /Users/DavidMak/Projects/TESTQQ/buddy.h317458793#18446744073709551615#0#0(6@39"/Users/DavidMak/Projects/TESTQQ/buddy.h317456122#12#0#12#0#0"0(6@39"/Users/DavidMak/Projects/TESTQQ/buddy.h317456122#12#0#12#0#19"expected * before *0(4@33"List.h: No such file or directory317458793#585#90#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#9#0#9#0#28"*: No such file or directory0(4@33"Loop.h: No such file or directory317458793#675#91#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#10#0#10#0#28"*: No such file or directory0(4@55"Expected declaration specifiers or '...' before 'uchar'317458793#900#110#3(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(7@64"In file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#11#0#11#0#0"0(13@101"Expected declaration specifiers or '...' before 'uchar' in /Users/DavidMak/Projects/TESTQQ/qqsocket.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqsocket.h317456122#12#0#12#0#0"0(6@42"/Users/DavidMak/Projects/TESTQQ/qqsocket.h317456122#12#0#12#0#19"expected * before *0(4@55"Expected declaration specifiers or '...' before 'uchar'317458793#1010#110#3(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(7@64"In file included from /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#11#0#11#0#0"0(13@101"Expected declaration specifiers or '...' before 'uchar' in /Users/DavidMak/Projects/TESTQQ/qqsocket.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqsocket.h317456122#13#0#13#0#0"0(6@42"/Users/DavidMak/Projects/TESTQQ/qqsocket.h317456122#13#0#13#0#19"expected * before *0(4@37"Protocol.h: No such file or directory317458793#1120#95#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#12#0#12#0#28"*: No such file or directory0(4@48"Expected specifier-qualifier-list before 'uchar'317458793#1280#103#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(13@94"Expected specifier-qualifier-list before 'uchar' in /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#38#0#38#0#0"0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#38#0#38#0#19"expected * before *0(4@55"Expected declaration specifiers or '...' before 'uchar'317458793#1383#110#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(13@101"Expected declaration specifiers or '...' before 'uchar' in /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#86#0#86#0#0"0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#86#0#86#0#19"expected * before *0(4@55"Expected declaration specifiers or '...' before 'uchar'317458793#1493#110#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#39#0#39#0#0"0(13@101"Expected declaration specifiers or '...' before 'uchar' in /Users/DavidMak/Projects/TESTQQ/qqclient.h317458793#18446744073709551615#0#0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#93#0#93#0#0"0(6@42"/Users/DavidMak/Projects/TESTQQ/qqclient.h317456122#93#0#93#0#19"expected * before *0(4@48"Expected specifier-qualifier-list before 'uchar'317458793#1668#98#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#41#0#41#0#0"0(13@89"Expected specifier-qualifier-list before 'uchar' in /Users/DavidMak/Projects/TESTQQ/qun.h317458793#18446744073709551615#0#0(6@37"/Users/DavidMak/Projects/TESTQQ/qun.h317456122#10#0#10#0#0"0(6@37"/Users/DavidMak/Projects/TESTQQ/qun.h317456122#10#0#10#0#19"expected * before *0(4@48"Expected specifier-qualifier-list before 'uchar'317458793#1766#98#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#41#0#41#0#0"0(13@89"Expected specifier-qualifier-list before 'uchar' in /Users/DavidMak/Projects/TESTQQ/qun.h317458793#18446744073709551615#0#0(6@37"/Users/DavidMak/Projects/TESTQQ/qun.h317456122#29#0#29#0#0"0(6@37"/Users/DavidMak/Projects/TESTQQ/qun.h317456122#29#0#29#0#19"expected * before *0(4@51"'GROUPNAME_LEN' undeclared here (not in a function)317458793#1929#102#2(7@60"In file included from /Users/DavidMak/Projects/TESTQQ/myqq.c317458793#18446744073709551615#0#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#42#0#42#0#0"0(13@94"'GROUPNAME_LEN' undeclared here (not in a function) in /Users/DavidMak/Projects/TESTQQ/group.h317458793#18446744073709551615#0#0(6@39"/Users/DavidMak/Projects/TESTQQ/group.h317456122#8#0#8#0#0"0(6@39"/Users/DavidMak/Projects/TESTQQ/group.h317456122#8#0#8#0#39"'*' undeclared here (not in a function)0(22@51"Format not a string literal and no format arguments317458793#2095#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#173#0#173#0#51"format not a string literal and no format arguments0(4@51"'QQ_ONLINE' undeclared (first use in this function)317458793#2267#103#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#228#0#228#0#43"'*' undeclared (first use in this function)0(4@49"'QQ_AWAY' undeclared (first use in this function)317458793#2556#101#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#230#0#230#0#43"'*' undeclared (first use in this function)0(4@49"'QQ_BUSY' undeclared (first use in this function)317458793#2657#101#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#232#0#232#0#43"'*' undeclared (first use in this function)0(4@52"'QQ_OFFLINE' undeclared (first use in this function)317458793#2758#104#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#234#0#234#0#43"'*' undeclared (first use in this function)0(4@51"'QQ_HIDDEN' undeclared (first use in this function)317458793#2862#103#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#236#0#236#0#43"'*' undeclared (first use in this function)0(4@51"'QQ_KILLME' undeclared (first use in this function)317458793#2965#103#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#238#0#238#0#43"'*' undeclared (first use in this function)0(4@50"'QQ_QUIET' undeclared (first use in this function)317458793#3068#102#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#240#0#240#0#43"'*' undeclared (first use in this function)0(4@41"'qqbuddy' has no member named 'signature'317458793#3245#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@37"'qqbuddy' has no member named 'alias'317458793#3338#89#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@43"'qqbuddy' has no member named 'mobilephone'317458793#3427#95#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@37"'qqbuddy' has no member named 'email'317458793#3522#89#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@42"'qqbuddy' has no member named 'occupation'317458793#3611#94#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@40"'qqbuddy' has no member named 'homepage'317458793#3705#92#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@38"'qqbuddy' has no member named 'school'317458793#3797#90#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@39"'qqbuddy' has no member named 'country'317458793#3887#91#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@40"'qqbuddy' has no member named 'province'317458793#3978#92#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@36"'qqbuddy' has no member named 'city'317458793#4070#88#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@39"'qqbuddy' has no member named 'address'317458793#4158#91#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@37"'qqbuddy' has no member named 'brief'317458793#4249#89#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@35"'qqbuddy' has no member named 'age'317458793#4338#87#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@35"'qqbuddy' has no member named 'sex'317458793#4425#87#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@35"'qqbuddy' has no member named 'sex'317458793#4512#87#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@38"'qqbuddy' has no member named 'status'317458793#4599#90#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#325#0#325#0#27"'*' has no member named '*'0(4@43"'qqclient' has no member named 'buddy_list'317458793#4764#95#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#379#0#379#0#27"'*' has no member named '*'0(4@43"'qqclient' has no member named 'buddy_list'317458793#4859#95#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#381#0#381#0#27"'*' has no member named '*'0(4@43"'qqclient' has no member named 'buddy_list'317458793#4954#95#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#383#0#383#0#27"'*' has no member named '*'0(4@38"'qqbuddy' has no member named 'status'317458793#5049#90#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#384#0#384#0#27"'*' has no member named '*'0(4@52"'QQ_OFFLINE' undeclared (first use in this function)317458793#5139#104#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#384#0#384#0#43"'*' undeclared (first use in this function)0(4@37"'qqbuddy' has no member named 'alias'317458793#5243#89#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#385#0#385#0#27"'*' has no member named '*'0(4@38"'qqbuddy' has no member named 'status'317458793#5332#90#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#386#0#386#0#27"'*' has no member named '*'0(4@37"'qqbuddy' has no member named 'alias'317458793#5422#89#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#386#0#386#0#27"'*' has no member named '*'0(4@38"'qqbuddy' has no member named 'status'317458793#5511#90#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#389#0#389#0#27"'*' has no member named '*'0(4@43"'qqclient' has no member named 'buddy_list'317458793#5601#95#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#394#0#394#0#27"'*' has no member named '*'0(4@41"'qqclient' has no member named 'qun_list'317458793#5769#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#409#0#409#0#27"'*' has no member named '*'0(4@41"'qqclient' has no member named 'qun_list'317458793#5862#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#410#0#410#0#27"'*' has no member named '*'0(4@41"'qqclient' has no member named 'qun_list'317458793#5955#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#412#0#412#0#27"'*' has no member named '*'0(4@41"'qqclient' has no member named 'qun_list'317458793#6048#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#417#0#417#0#27"'*' has no member named '*'0(4@41"'qqqun' has no member named 'member_list'317458793#6221#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#434#0#434#0#27"'*' has no member named '*'0(4@41"'qqqun' has no member named 'member_list'317458793#6314#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#435#0#435#0#27"'*' has no member named '*'0(4@41"'qqqun' has no member named 'member_list'317458793#6407#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#437#0#437#0#27"'*' has no member named '*'0(4@40"'qunmember' has no member named 'status'317458793#6500#92#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#438#0#438#0#27"'*' has no member named '*'0(4@52"'QQ_OFFLINE' undeclared (first use in this function)317458793#6592#104#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#438#0#438#0#43"'*' undeclared (first use in this function)0(4@38"'qunmember' has no member named 'role'317458793#6696#90#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#439#0#439#0#27"'*' has no member named '*'0(4@41"'qqqun' has no member named 'member_list'317458793#6786#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#444#0#444#0#27"'*' has no member named '*'0(4@34"'qqqun' has no member named 'type'317458793#6952#86#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#462#0#462#0#27"'*' has no member named '*'0(4@39"'qqqun' has no member named 'auth_type'317458793#7038#91#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#462#0#462#0#27"'*' has no member named '*'0(4@39"'qqqun' has no member named 'auth_type'317458793#7129#91#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#462#0#462#0#27"'*' has no member named '*'0(4@39"'qqqun' has no member named 'auth_type'317458793#7220#91#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#462#0#462#0#27"'*' has no member named '*'0(4@41"'qqqun' has no member named 'member_list'317458793#7311#93#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#462#0#462#0#27"'*' has no member named '*'0(22@51"Format not a string literal and no format arguments317458793#7478#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#503#0#503#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#7583#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#511#0#511#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#7760#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#544#0#544#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#7865#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#554#0#554#0#51"format not a string literal and no format arguments0(4@37"'qqclient' has no member named 'mode'317458793#8030#89#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#636#0#636#0#27"'*' has no member named '*'0(4@51"'QQ_HIDDEN' undeclared (first use in this function)317458793#8119#103#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#636#0#636#0#43"'*' undeclared (first use in this function)0(4@51"'QQ_ONLINE' undeclared (first use in this function)317458793#8222#103#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#636#0#636#0#43"'*' undeclared (first use in this function)0(4@37"'qqclient' has no member named 'mode'317458793#8325#89#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#643#0#643#0#27"'*' has no member named '*'0(4@40"'qqclient' has no member named 'process'317458793#8414#92#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#648#0#648#0#27"'*' has no member named '*'0(4@40"'qqclient' has no member named 'process'317458793#8506#92#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#650#0#650#0#27"'*' has no member named '*'0(22@51"Format not a string literal and no format arguments317458793#8598#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#682#0#682#0#51"format not a string literal and no format arguments0(4@40"'qqclient' has no member named 'process'317458793#8703#92#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#683#0#683#0#27"'*' has no member named '*'0(22@51"Format not a string literal and no format arguments317458793#8795#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#720#0#720#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#8900#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#726#0#726#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#9005#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#730#0#730#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#9110#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#765#0#765#0#51"format not a string literal and no format arguments0(4@49"'QQ_AWAY' undeclared (first use in this function)317458793#9215#101#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#773#0#773#0#43"'*' undeclared (first use in this function)0(4@55"Too many arguments to function 'qqclient_change_status'317458793#9316#107#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#773#0#773#0#0"0(4@55"Too many arguments to function 'qqclient_change_status'317458793#9423#107#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#775#0#775#0#0"0(4@55"Too many arguments to function 'qqclient_change_status'317458793#9530#107#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#777#0#777#0#0"0(4@51"'QQ_KILLME' undeclared (first use in this function)317458793#9637#103#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#779#0#779#0#43"'*' undeclared (first use in this function)0(4@55"Too many arguments to function 'qqclient_change_status'317458793#9740#107#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#779#0#779#0#0"0(4@49"'QQ_BUSY' undeclared (first use in this function)317458793#9847#101#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#781#0#781#0#43"'*' undeclared (first use in this function)0(4@55"Too many arguments to function 'qqclient_change_status'317458793#9948#107#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#781#0#781#0#0"0(22@51"Format not a string literal and no format arguments317458793#10055#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#798#0#798#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10160#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#805#0#805#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10265#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#810#0#810#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10370#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#823#0#823#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10475#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#829#0#829#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10580#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#859#0#859#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10685#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#861#0#861#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10790#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#869#0#869#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#10895#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#871#0#871#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#11000#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#883#0#883#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#11105#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#886#0#886#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#11210#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#895#0#895#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#11315#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#898#0#898#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments317458793#11420#105#0(6@38"/Users/DavidMak/Projects/TESTQQ/myqq.c317456122#915#0#915#0#51"format not a string literal and no format arguments0(0#0#38"/Users/DavidMak/Projects/TESTQQ/myqq.c4300882208#1175"    cd /Users/DavidMak/Projects/TESTQQ    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-generated-files.hmap -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-own-target-headers.hmap -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-all-target-headers.hmap -iquote /Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/TESTQQ-project-headers.hmap -F/Users/DavidMak/Projects/TESTQQ/build/Debug -I/Users/DavidMak/Projects/TESTQQ/build/Debug/include -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/DerivedSources/x86_64 -I/Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/DerivedSources -c /Users/DavidMak/Projects/TESTQQ/myqq.c -o /Users/DavidMak/Projects/TESTQQ/build/TESTQQ.build/Debug/TESTQQ.build/Objects-normal/x86_64/myqq.o1#
+
+CLd /Users/DavidMak/Projects/TESTQQ/build/Debug/TESTQQ normal x86_64
+r0
+
